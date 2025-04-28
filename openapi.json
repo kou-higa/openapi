@@ -1,12 +1,12 @@
 {
     "openapi": "3.0.1",
     "info": {
-        "title": "Echo API Add",
+        "title": "Echo API Test",
         "version": "1.0"
     },
     "servers": [
         {
-            "url": "http://kh-apim-test-terraform.azure-api.net/echotestadd"
+            "url": "http://kh-apim-test-terraform.azure-api.net/echotest"
         }
     ],
     "paths": {
